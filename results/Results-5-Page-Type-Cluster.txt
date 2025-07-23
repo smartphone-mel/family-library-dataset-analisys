@@ -1,0 +1,22 @@
+QUICK CLUSTER  Page Type
+	/CRITERIA=CLUSTERS(3).
+
+Centros de Agrupaciones Finales
+╭────┬──────────────╮
+│    │ Agrupaciones │
+│    ├────┬────┬────┤
+│    │  1 │  2 │  3 │
+├────┼────┼────┼────┤
+│Page│  45│  99│ 165│
+╰────┴────┴────┴────╯
+
+Número de casos en cada Agrupación
+╭──────────────┬────────╮
+│              │Recuento│
+├──────────────┼────────┤
+│Agrupaciones 1│       9│
+│             2│      14│
+│             3│       7│
+├──────────────┼────────┤
+│Válido        │      30│
+╰──────────────┴────────╯

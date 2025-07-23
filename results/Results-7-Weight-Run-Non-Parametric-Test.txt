@@ -1,0 +1,29 @@
+NPAR TEST
+	/RUNS (MEDIAN) =  Weight
+	/RUNS (200) =  Weight.
+
+          Ejecuta Test
+╭───────────────────────┬──────╮
+│                       │Weight│
+├───────────────────────┼──────┤
+│Valor de Test (mediana)│177,00│
+│Casos < Valor de Test  │    15│
+│Casos ≥ Valor de Prueba│    15│
+│Casos Totales          │    30│
+│Número de ejecuciones  │    16│
+│Z                      │   ,00│
+│Sig. Asint. (2-colas)  │ 1,000│
+╰───────────────────────┴──────╯
+
+          Ejecuta Test
+╭───────────────────────┬──────╮
+│                       │Weight│
+├───────────────────────┼──────┤
+│Valor del Test         │200,00│
+│Casos < Valor de Test  │    17│
+│Casos ≥ Valor de Prueba│    13│
+│Casos Totales          │    30│
+│Número de ejecuciones  │    16│
+│Z                      │   ,00│
+│Sig. Asint. (2-colas)  │ 1,000│
+╰───────────────────────┴──────╯
